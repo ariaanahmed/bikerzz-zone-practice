@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bikerz-zone-prev-icon{
+    background-color: rgba(0, 0, 0, 0.575);
+    border-radius: 5px;
+}
+
+.bikerz-zone-next-icon{
+    background-color: rgba(0, 0, 0, 0.575);
+    border-radius: 5px;
+}
